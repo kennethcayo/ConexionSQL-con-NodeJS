@@ -1,0 +1,14 @@
+{
+  "name": "conexionesbd",
+  "version": "1.0.0",
+  "description": "conexion mysql desde nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenneth Cayo",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
